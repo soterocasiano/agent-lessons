@@ -59,7 +59,7 @@ def parse_args() -> argparse.Namespace:
         help="What can be assumed the audience already knows",
     )
     parser.add_argument(
-        "--model", default="gpt-5", help="Copilot model to use (default: gpt-5)"
+        "--model", default="claude-sonnet-5", help="Copilot model to use (default: claude-sonnet-5)"
     )
     parser.add_argument(
         "--output",

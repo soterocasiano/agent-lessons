@@ -19,6 +19,8 @@ Ask the user for these if not provided:
 
 ## Output Structure
 
+Write the complete, ready-to-teach lesson plan in full — not an outline or a description of what each section should contain. Every objective, activity, explanation, worked example, question, and exit ticket must be the actual content a teacher would read aloud or hand to participants, tailored to the specific subject and audience provided. Bracketed text below marks where content is required, not what should be written literally.
+
 ---
 
 # Lesson Plan: [Topic]
@@ -112,6 +114,7 @@ By the end of this session, participants will be able to:
 
 ## Anti-Patterns
 
+- [ ] Do not output an outline, template, or description of what each section should contain — write the actual, complete lesson content (real objectives, real activities, real worked examples, real questions) as if handing it to a teacher to use immediately
 - [ ] Do not design a lesson plan without explicitly stating the learning objectives — activities must trace back to outcomes
 - [ ] Do not allocate timing that does not add up to the total session length — the plan must be time-feasible
 - [ ] Do not create activities with no assessment component — learning must be measurable, not just delivered
